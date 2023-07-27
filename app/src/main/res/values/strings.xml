@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">booksKotlin</string>
+    <string name="description">Zbiór reportaży literackich publikowanych w roku 1909 na łamach „Tygodnika Ilustrowanego”.
+
+Losy unitów, które Władysław Stanisław Reymont opisał w tekstach „Z ziemi chełmskiej”, były dla samego autora bardzo interesujące. W celu zgłębienia ich historii przez jakiś czas przebywał nawet na terenach przez nich zamieszkałych, a więc na Chełmszczyźnie i na Podlasiu. Zasłyszane fakty umiejętnie połączył z fikcją literacką, nadając reportażom formę powieściową. Opisał w nich sytuację po zerwaniu po 1875 roku przez cara Aleksandra II unii kościoła katolickiego i prawosławnego, która poskutkowała okrutną rusyfikacją i nakazem przejścia na prawosławie. Jedną ze stosowanych metod było świadome skłócanie wyznawców różnych religii, które okazało się tragiczne w skutkach.</string>
+
 </resources>
